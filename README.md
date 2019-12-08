@@ -84,3 +84,6 @@ $ sudo chmod +x /usr/local/bin/docker-compose
 $ docker-compose --version
 docker-compose version 1.24.1, build 4667896b
 ```
+
+---
+Habr: https://habr.com/ru/post/310460/
